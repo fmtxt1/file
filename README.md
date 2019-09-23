@@ -1,2 +1,2 @@
 # file
-resourcefile
+android    resourcefile
